@@ -9,7 +9,7 @@
 
 - 📫 Contacto **andradalucaswork@gmail.com**
 
-<a href="https://drive.google.com/file/d/1iBl7zMiPlCXEBobyyIsC53fbOhCmbf6-/view?usp=sharing">Ver Curriculum vitae</a>
+<a href="https://drive.google.com/file/d/1iBl7zMiPlCXEBobyyIsC53fbOhCmbf6-/view?usp=sharing" target="_blank">Ver Curriculum vitae</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
