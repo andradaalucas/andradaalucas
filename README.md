@@ -7,7 +7,7 @@
 
 - 👯 Busco colaborar en **proyectos ambiciosos**
 
-- 📫 Contacto **andradalucaswork@gmail.com**
+- 📫 Contacto <a href="mailto:andradalucaswork@gmail.com?Subject=Nuevo%20proyecto">email</a>
 
 <a href="https://drive.google.com/file/d/1iBl7zMiPlCXEBobyyIsC53fbOhCmbf6-/view?usp=sharing" target="_blank">Ver Curriculum vitae</a>
 
