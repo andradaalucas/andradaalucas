@@ -3,7 +3,7 @@
 
 - ⚡ Actualmente estoy trabajando como [teacher assistant](https://www.soyhenry.com/)
 
-- 🌱 Actualmente estoy aprendiendo **desarrollo de software con python**
+- 🌱 Actualmente estoy aprendiendo **desarrollo de software con Java**
 
 - 👯 Busco colaborar en **proyectos ambiciosos**
 
