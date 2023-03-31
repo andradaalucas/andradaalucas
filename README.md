@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Lucas</h1>
+<h1 align="center">Hi 👋, i'm Lucas</h1>
 <h3 align="center">I am a Full Stack developer, I was born in Córdoba Argentina and I am passionate about software development.</h3>
 
 - ⚡ Work as [teacher assistant](https://www.soyhenry.com/)
