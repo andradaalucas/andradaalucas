@@ -4,9 +4,7 @@ Full Stack developer from Córdoba, Argentina, passionate about software develop
 
 
 - 🖤 2 years of experience as a full stack developer
-
-- 🖤 I am currently learning **software development with Java**
-
+- 🖤 Computer Science Student at FAMAF National University of Cordoba
 - 🖤 I am looking to collaborate in **ambitious projects**
 
 - 🖤 Contact <a href="mailto:andradalucaswork@gmail.com?Subject=New%20project">andradalucasowork@gmail.com</a>
